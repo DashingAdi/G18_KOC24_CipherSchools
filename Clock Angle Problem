@@ -16,9 +16,9 @@ def clockangle(hour, minutes):
   else:
     print("Enter a correct time.")
     exit()
-print("___________________________________________\n")
+print("_______________________________________________\n")
 print("Give a time in hh:mm format in 24 hour notation")
-print("___________________________________________\n")
+print("_______________________________________________\n")
 postangle=clockangle(int(input("Hour: ")), int(input("Minutes: ")))
 angle=format(postangle,".2f")
 print("\nThe difference between the hour and the minute hand is", angle + "°")
