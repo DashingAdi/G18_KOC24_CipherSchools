@@ -1,2 +1,2 @@
 `Clock Angle Problem:`
- [![Clock Angle Problem](https://github.com/DashingAdi/Programs/blob/main/Python/.gitignore/logo.png)](https://replit.com/@DashingAdi/Clock-Angle)
+ [![Clock Angle Problem](logo (1).png)](https://replit.com/@DashingAdi/Clock-Angle)
