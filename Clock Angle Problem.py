@@ -1,3 +1,6 @@
+import sys
+
+
 def clockangle(hour, minutes):
   if 00 <= hour <= 24 and 00 <= minutes <= 60:
     #converting the 24hr format to 12 to make calculation easier
@@ -15,7 +18,7 @@ def clockangle(hour, minutes):
     return postangle
   else:
     print("Enter a correct time.")
-    exit()
+    sys.exit()
 print("_______________________________________________\n")
 print("Give a time in hh:mm format in 24 hour notation")
 print("_______________________________________________\n")
